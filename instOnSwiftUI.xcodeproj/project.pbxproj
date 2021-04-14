@@ -12,6 +12,7 @@
 		92138838261C8BDE00447CC1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92138837261C8BDE00447CC1 /* Assets.xcassets */; };
 		9213883B261C8BDE00447CC1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9213883A261C8BDE00447CC1 /* Preview Assets.xcassets */; };
 		92138844261C928D00447CC1 /* Stories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92138843261C928D00447CC1 /* Stories.swift */; };
+		9258327A26272A130039E891 /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9258327926272A130039E891 /* Photo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		9213883A261C8BDE00447CC1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9213883C261C8BDE00447CC1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92138843261C928D00447CC1 /* Stories.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stories.swift; sourceTree = "<group>"; };
+		9258327926272A130039E891 /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				92138833261C8BD000447CC1 /* instOnSwiftUIApp.swift */,
 				92138835261C8BD000447CC1 /* ContentView.swift */,
 				92138843261C928D00447CC1 /* Stories.swift */,
+				9258327926272A130039E891 /* Photo.swift */,
 				92138837261C8BDE00447CC1 /* Assets.xcassets */,
 				9213883C261C8BDE00447CC1 /* Info.plist */,
 				92138839261C8BDE00447CC1 /* Preview Content */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9258327A26272A130039E891 /* Photo.swift in Sources */,
 				92138844261C928D00447CC1 /* Stories.swift in Sources */,
 				92138836261C8BD000447CC1 /* ContentView.swift in Sources */,
 				92138834261C8BD000447CC1 /* instOnSwiftUIApp.swift in Sources */,

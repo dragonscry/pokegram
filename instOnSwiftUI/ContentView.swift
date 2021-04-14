@@ -12,7 +12,10 @@ struct ContentView: View {
         VStack {
             Top()
             Stories()
+            Divider()
+            Photo()
             Spacer()
+
         }.ignoresSafeArea(.all)
     }
 }
